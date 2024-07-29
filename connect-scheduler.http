@@ -1,0 +1,6 @@
+@connect_scheduler_HostAddress = http://localhost:5090
+
+GET {{connect_scheduler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

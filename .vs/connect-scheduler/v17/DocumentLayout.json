@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiz.filho\\source\\repos\\connect-scheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1183EBFA-22C9-403C-A2FD-E5654A285772}|Api\\Api.csproj|c:\\users\\luiz.filho\\source\\repos\\connect-scheduler\\api\\appcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183EBFA-22C9-403C-A2FD-E5654A285772}|Api\\Api.csproj|solutionrelative:api\\appcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.filho\\source\\repos\\connect-scheduler\\Api\\AppCore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Api\\AppCore\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\luiz.filho\\source\\repos\\connect-scheduler\\Api\\AppCore\\Models\\Login.cs",
+              "RelativeToolTip": "Api\\AppCore\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:34:04.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

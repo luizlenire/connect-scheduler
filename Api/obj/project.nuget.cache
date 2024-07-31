@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tv/2Pas6vUByo9Q5kOogvfjdHTKdibNgyHkZX+01bgJWvGEyF/ZUPixhHcalhRoXH6akJ94nC/MUltY8Tg/miw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiz.filho\\source\\repos\\connect-scheduler\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\hangfire.aspnetcore\\1.8.14\\hangfire.aspnetcore.1.8.14.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\hangfire.core\\1.8.14\\hangfire.core.1.8.14.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\hangfire.dashboard.basic.authentication\\7.0.1\\hangfire.dashboard.basic.authentication.7.0.1.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\hangfire.memorystorage\\1.8.1.1\\hangfire.memorystorage.1.8.1.1.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\hangfire.netcore\\1.8.14\\hangfire.netcore.1.8.14.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.filho\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
